@@ -24,7 +24,7 @@
   },
   "dashboard": {
     "dashboard": "Pano",
-    "homebrew": "Homebrew",
+    "homebrew": "Ev yapımı",
     "hotspot": "Erişim Noktaları",
     "repeaters": "Tekrarlayıcılar",
     "dv4mini": "DV4mini",
@@ -35,8 +35,8 @@
     "externalCalls": "Harici çağrılar",
     "perCountry": "Ülke başına",
     "onlinePerCountry": "Ülke başına çevrimiçi",
-    "graphYaxis": "Homebrew/ErişimNoktası/Tekrarlayıcı",
-    "homebrewHotspots": "Homebrew Erişim Noktaları",
+    "graphYaxis": "Ev Yapımı/ErişimNoktası/Tekrarlayıcı",
+    "homebrewHotspots": "Ev Yapımı Erişim Noktaları",
     "dv4minis": "DV4minis",
     "industrialRepeaters": "Endüstriyel Tekrarlayıcılar",
     "repeaterModels": "Tekrarlayıcı modelleri",
@@ -47,8 +47,8 @@
     "eurOfTotal": "of",
     "helpUsImprove": "BrandMeister'a yardım edin!",
     "voiceCalls": "Sesli çağrılar",
-    "homebrewHotspot": "Homebrew erişim noktaları",
-    "homebrewRepeaters": "Homebrew tekrarlayıcılar"
+    "homebrewHotspot": "Ev yapımı erişim noktaları",
+    "homebrewRepeaters": "Ev yapımı tekrarlayıcılar"
   },
   "dataTables": {
     "all": "Tümü",
