@@ -4,7 +4,7 @@
     "time": "Zaman",
     "repeater": "Tekrarlayıcı",
     "alarm": "Alarm",
-    "master": "Usta",
+    "master": "Ana Sunucu",
     "data": "Veri"
   },
   "callStats": {
@@ -29,7 +29,7 @@
     "repeaters": "Tekrarlayıcılar",
     "dv4mini": "DV4mini",
     "fullReport": "Tam rapor",
-    "masters": "Ustalar",
+    "masters": "Ana Sunucular",
     "repeaterInRX": "RX'de tekrarlayıcı",
     "repeaterInTX": "TX'de Tekrarlayıcı",
     "externalCalls": "Harici çağrılar",
@@ -113,7 +113,7 @@
     "rx": "RX",
     "colorCode": "CC",
     "status": "Durum",
-    "master": "Usta"
+    "master": "Ana Sunucu"
   },
   "legal": {
     "legal": "Yasal Bilgi"
@@ -121,8 +121,8 @@
   "LH": {
     "lastHeard": "SonDuyulan",
     "time": "Zaman",
-    "master": "Usta",
-    "masterID": "Usta ID",
+    "master": "Ana Sunucu",
+    "masterID": "Ana Sunucu ID",
     "sessionID": "Oturum ID",
     "linkName": "Link adı",
     "myCall": "Çağrım",
@@ -161,7 +161,7 @@
     "bmmap": "BrandMeister Ağ Haritası"
   },
   "masters": {
-    "masters": "Ustalar",
+    "masters": "Ana Sunucular",
     "country": "Ülke",
     "number": "Sayı",
     "version": "Versiyon",
@@ -174,7 +174,7 @@
     "lastHeard": "Son Duyulanlar",
     "repeaters": "Tekrarlayıcılar",
     "hotspots": "ErişimNoktaları",
-    "masters": "Ustalar",
+    "masters": "Ana Sunucular",
     "reflectors": "Reflektörler",
     "clusters": "Kümeler",
     "alerts": "Alarmlar",
@@ -191,7 +191,7 @@
     "sysopMenu": "Sysop Menü",
     "sysopDashboard": "Sysop Pano",
     "myRepeaters": "Tekrarlayıcılarım",
-    "masterMenu": "Usta Menü",
+    "masterMenu": "Ana Sunucu Menü",
     "masterDashboard": "Usta Pano",
     "systemInfo": "Sistem Bilgisi",
     "systemSettings": "Sistem Ayarları",
@@ -206,7 +206,7 @@
   },
   "monitoring": {
     "error": "Hata!",
-    "master": "Usta",
+    "master": "Ana Sunucu",
     "notResponding": "cevap vermiyor"
   },
   "news": {
@@ -246,7 +246,7 @@
     "register": "Kayıt ol",
     "registration": "Kayıt",
     "generalAccountDetails": "Genel Hesap Ayrıntıları",
-    "callsign": "Çağrıişareti",
+    "callsign": "Çağrı işareti",
     "firstname": "İsim",
     "email": "Email Adresiniz",
     "security": "Güvenlik",
@@ -268,7 +268,7 @@
     "rx": "RX",
     "colorCode": "CC",
     "status": "Durum",
-    "master": "Usta"
+    "master": "Ana Sunucu"
   },
   "roles": {
     "user": "Kullanıcı",
@@ -314,7 +314,7 @@
     "save": "Ayarları kaydet",
     "help": "Bu konuda yardım için lütfen wiki'yi kontrol edin",
     "notResponding": "cevap vermiyor",
-    "master": "Usta",
+    "master": "Ana Sunucu",
     "error": "Hata!",
     "missingDongle": "Hata: Eksik dongle",
     "errorReflector": "Hata: Bir reflektöre bağlanamıyorum, lütfen bir konuşma grubu kullanın"
